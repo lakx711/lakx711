@@ -16,7 +16,6 @@
         <img width="200" src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif">
       </a>
     </td>
-
     <!-- MIDDLE TEXT -->
     <td width="400" style="padding: 15px;">
       <p><em>SUPER UNEMPLOYED OHIO FINAL BOSS</em></p>
@@ -25,7 +24,6 @@
       <strong>Work:</strong> UNEMPLOYED <br>
       <strong>Language:</strong> English
     </td>
-
     <!-- RIGHT GIF -->
     <td width="200" align="center">
       <img src="https://github.com/lakx711/lakx711/blob/main/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif?raw=true" width="180">
