@@ -17,10 +17,10 @@
     </td>
     <!-- MIDDLE TEXT -->
     <td width="400" style="padding: 15px;">
-      <p><em>SUPER UNEMPLOYED OHIO FINAL BOSS</em></p>
+      <p><em>SUPER FINAL BOSS</em></p>
       <strong>Name:</strong> Lakshit Soni <br>
       <strong>Residing in:</strong> India <br>
-      <strong>Work:</strong> UNEMPLOYED <br>
+      <strong>Work:</strong> Student <br>
       <strong>Language:</strong> English
     </td>
     <!-- RIGHT GIF -->
