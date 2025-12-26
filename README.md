@@ -25,7 +25,7 @@
     </td>
     <!-- RIGHT GIF -->
     <td width="200" align="center">
-      <img src="https://github.com/lakx711/lakx711/blob/main/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif?raw=true" width="180">
+      <img src="https://raw.githubusercontent.com/abhishekk-y/abhishekk-y/main/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
     </td>
   </tr>
 </table>
