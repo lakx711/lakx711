@@ -32,10 +32,10 @@ I am a motivated engineering student specializing in **Big Data Analytics**, wit
   <a href="https://www.linkedin.com/in/lakshit-s-397b27235">
     <img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="https://discord.com/users/ttreexx">
+  <a href="https://discord.com/users/lakshit11">
     <img src="https://img.shields.io/badge/DISCORD-DAC6C2?style=for-the-badge&logo=discord&logoColor=black"/>
   </a>
-  <a href="mailto:boysbing7@gmail.com">
+  <a href="mailto:lakshitsoni78@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
