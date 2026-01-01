@@ -72,7 +72,7 @@ I am a motivated engineering student specializing in **Big Data Analytics**, wit
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📫 Contact
-**Please contact me on Discord for a quick response:** <a href="https://discord.com/users/ttreexx">Abhishek</a> 
+**Please contact me on Discord for a quick response:** <a href="https://discord.com/users/lakshit11">Lakshit Soni</a> 
 <br/>
 <!-- BADGES IN ONE CLEAN LINE -->
 <p align="left">
