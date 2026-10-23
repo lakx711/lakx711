@@ -9,7 +9,7 @@ I am a motivated engineering student specializing in **Big Data Analytics**, wit
 ---
 ## 🔧 About Me
 
-- 🎓 **Current Year:** 3rd Year B.E. Student  
+- 🎓 **Current Year:** 4th Year B.E. Student  
 
 - 🌱 **Currently learning:** <img src="https://img.shields.io/badge/Big%20Data-4B8BBE?style=for-the-badge&logo=apachehadoop&logoColor=white"/> <img src="https://img.shields.io/badge/Frontend-ff69b4?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/ML%20%26%20AI-6A5ACD?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
 - 👯 **Looking to collaborate on:**  <img src="https://img.shields.io/badge/Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>  <img src="https://img.shields.io/badge/Data--Driven-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white"/>  <img src="https://img.shields.io/badge/ML%2FAI-102230?style=for-the-badge&logo=pytorch&logoColor=white"/>  <img src="https://img.shields.io/badge/Open--Source-3DA639?style=for-the-badge&logo=github&logoColor=white"/>  
